@@ -1,1 +1,1 @@
-# Spring MVC Application
+# Pac Man
